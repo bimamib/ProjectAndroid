@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">TraditionalCake</string>
+    <string name="about_me">About Me</string>
+
+    <string name="cake_name">Nama Kue Tradisional</string>
+    <string name="description">Deskripsi</string>
+    <string name="information">Informasi</string>
+    <string name="asal_daerah">Daerah Asal:</string>
+    <string name="daerah">Daerah Asal</string>
+
+    <string-array name="data_name">
+        <item>Kue Lapis</item>
+        <item>Kue Lumpur</item>
+        <item>Klepon</item>
+        <item>Kue Talam</item>
+        <item>Onde-Onde</item>
+        <item>Getuk</item>
+        <item>Rangi</item>
+        <item>Jalangkote</item>
+        <item>Kue Apem</item>
+        <item>Wajik</item>
+        <item>Kue Putu</item>
+        <item>Lemper</item>
+        <item>Bika Ambon</item>
+        <item>Cenil</item>
+        <item>Kue Pukis</item>
+        <item>Ongol-Ongol</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lapisan kue yang berwarna-warni dari kue lapis membuat tampilannya menarik.
+            Kue khas Betawi ini terbuat dari tepung beras, tepung kanji, santan, gula pasir, garam,
+            dan pewarna makanan.</item>
+        <item>Kue Lumpur adalah kue tradisional yang terbuat dari campuran tepung ketan, santan,
+            gula, dan telur yang dibakar dalam cetakan atau loyang yang disebut Lumpur. Kue ini
+            berasal dari Jawa dan umumnya ditemukan di daerah Jawa Tengah dan Jawa Timur.</item>
+        <item>Klepon adalah kue bola kecil yang terbuat dari ketan yang diisi dengan gula merah cair
+            dan dibentuk menjadi bola-bola kecil. Kue ini kemudian direbus dalam air dan digulingkan
+            di atas kelapa parut. Klepon berasal dari daerah Jawa, terutama Jawa Tengah dan DIY.</item>
+        <item>Kue talam adalah salah satu jenis camilan tradisional yang dapat ditemukan di berbagai
+            daerah di Indonesia. Kue talam memiliki rasa manis dan gurih. Rasa gurih kue talam
+            berasal dari santan yang menjadi salah satu bahan utamanya. Pada bulan puasa, kue talam
+            menjadi salah satu menu berbuka puasa.</item>
+        <item>Onde-onde atau bola wijen (Hanzi: 煎堆; Pinyin: jiānduī; Yale (Bahasa Kanton): jīndēui)
+            adalah sejenis kue jajanan pasar yang terkenal di Indonesia. Bola wijen mudah ditemukan
+            di pasar tradisional maupun dijual di pedagang kaki lima. Bola wijen juga terkenal
+            khususnya di daerah pecinan baik di Indonesia maupun luar negeri.</item>
+        <item>Getuk (gêthuk) adalah penganan yg terbuat dari singkong, direbus, kemudian dicampur
+            gula pasir atau gula merah dan kelapa ditumbuk sekaligus. Getuk merupakan penganan
+            tradisional khas masyarakat Jawa yang popular di wilayah Daerah Istimewa Yogyakarta,
+            Jawa Tengah, Ngawi dan Jawa Timur. Penganan ini berasal dari Magelang, Jawa Tengah.</item>
+        <item>Kue rangi, atau juga disebut sagu rangi, adalah salah satu kue tradisional Betawi.
+            Kue ini terbuat dari campuran tepung kanji (orang Betawi biasa menyebutnya tepung sagu)
+            dengan kelapa parut yang dipanggang dengan cetakan khusus di atas tungku kecil dan
+            ditutup agar cepat matang. Kue rangi disajikan dengan olesan gula merah yang dikentalkan
+            dengan sedikit tepung kanji. Untuk menambah selera dan wangi, gula merah dicampur dengan
+            potongan nangka, nanas atau durian.</item>
+        <item>Jalangkote adalah makanan ringan khas Etnik Makassar di Sulawesi Selatan, yang bentuknya
+            serupa dengan kue pastel. Bedanya pastel memiliki kulit yang lebih tebal dibandingkan
+            jalangkote dan bila pastel dimakan bersama cabai rawit, jalangkote dimakan bersama sambal
+            cair campuran cuka dan cabai. Jalangkote memiliki isi wortel dan kentang yang dipotong dadu,
+            tauge, serta laksa yang ditumis dengan menggunakan bawang putih, bawang merah, merica, dan
+            bumbu-bumbu lainnya.</item>
+        <item>Mengutip buku Cara Membuat Kue Serabi, kue apem berbahan dasar tepung beras, tepung terigu,
+            santan, gula jawa dan sedikit tape singkong. Kue ini kemudian digoreng di atas wajan
+            dengan sedikit olesan minyak. Di Jogja yang masih kental dengan tradisi Jawa dan adat
+            istiadat keraton, ada tradisi yang bernama apeman. Kue apem ini biasanya dibuat sebagai
+            salah satu rangkaian untuk memperingati bertahtanya sultan.</item>
+        <item>Wajik adalah kue basah dari Jawa Tengah yang dibuat dari ketan kukus, lalu dicampur
+            dengan santan dan gula jawa atau gula pasir. Jika ingin menggunakan gula pasir, maka
+            harus ditambahkan zat pewarna. Setelah kering, adonan dicetak dalam baki atau tampah,
+            lalu dipotong-potong setelah dingin.</item>
+        <item>Kue putu adalah jenis kudapan tradisional Indonesia berupa kue dengan isian gula jawa,
+            dibalut dengan parutan kelapa, dan tepung beras butiran kasar. Kue ini di kukus dengan
+            diletakkan di dalam tabung bambu yang sedikit dipadatkan. Kue ini dijual pada saat
+            matahari terbenam sampai larut malam. Suara khas uap yang keluar dari alat suitan ini
+            sekaligus menjadi alat promosi bagi pedagang yang berjualan.</item>
+        <item>Lemper (lêmpêr) adalah penganan yang dibuat dari ketan dan dimasak dengan santan, di
+            dalamnya diisi daging cincang atau abon, dibungkus dengan daun pisang menyerupai lontong
+            tetapi dengan ukuran yang lebih kecil. Lemper merupakan penganan khas Jawa yang berasal
+            dari Daerah Istimewa Yogyakarta yang telah terdokumentasi dalam Serat Centini yang
+            diterbitkan pada abad ke-18M. Penganan ini dapat juga dijumpai di berbagai daerah
+            di Indonesia terutama di Daerah Istimewa Yogyakarta, Jawa Tengah dan Jawa Timur.</item>
+        <item>Bika Ambon adalah kue tradisional khas Medan, Indonesia. Kue ini terbuat dari bahan-bahan
+            seperti tepung tapioka, telur, gula, dan santan. Bika ambon dimasak selama 12 jam agar
+            dapat bertahan dalam kondisi terbaik dan sesuai apa yang diinginkan selama empat hari
+            karena setelahnya kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring
+            pada bagian dalam. Bika ambon juga dijual dengan berbagai macam rasa, seperti pandan, coklat,
+            keju, dan lain-lain.</item>
+        <item>Cenil (cênil) atau Cetil (cêtil) adalah penganan yang dibuat dari adonan tepung kanji
+            dan gula pasir, diberi pewarna, dibentuk menjadi bulatan-bulatan kecil, dimakan dengan
+            kelapa parut. Cenil atau cetil merupakan penganan tradisional khas Jawa yang populer di
+            wilayah Jawa Tengah, Jawa Timur, dan Daerah Istimewa Yogyakarta. Penganan ini berasal dari
+            Kabupaten Pacitan, Jawa Timur. Cenil biasanya di jual bersama dengan klepon, kicak, getuk,
+            ciwel, cantel, pertolo, dan tepo.</item>
+        <item>Kue pukis atau hanya disebut pukis adalah kue atau makanan ringan tradisional Indonesia
+            yang terbuat dari adonan berbahan dasar tepung terigu dan dimasak dalam wajan cetakan khusus.
+            Ini adalah makanan ringan yang biasa ditemukan di pasar tradisional Indonesia. Kue ini dibuat
+            dari adonan telur, gula pasir, tepung terigu, ragi dan santan. Adonan itu kemudian dituangkan
+            ke dalam cetakan setengah bulan serta dipanggang di atas api (bukan oven). Pukis adalah
+            modifikasi dari kue wafel.</item>
+        <item>Ongol-ongol terbuat dari tepung sagu yang dicampur dengan gula jawa dan diberi taburan
+            kelapa. Rasa gurih dan legit karena taburan kepala di atas ongol-ongol yang kenyal membuat
+            jajanan ini berbeda dari yang lain.</item>
+    </string-array>
+
+    <string name="data_information">Informasi</string>
+    <string name="share">SHARE</string>
+
+    <string-array name="data_daerah">
+        <item>Tiongkok Kuno</item>
+        <item>Betawi</item>
+        <item>Jawa</item>
+        <item>Betawi</item>
+        <item>Tiongkok, Hongkong</item>
+        <item>Jawa Tengah</item>
+        <item>Betawi</item>
+        <item>Makassar, Sulawesi Selatan</item>
+        <item>Kalimantan Selatan</item>
+        <item>Jawa Tengah, dan Jawa Timur</item>
+        <item>Jawa, dan Medan</item>
+        <item>Daerah Istimewa Yogyakarta</item>
+        <item>Medan, Melayu</item>
+        <item>Pacitan, Jawa Timur</item>
+        <item>Banyumas, Jawa Tengah</item>
+        <item>Jawa Barat</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/kue_lapis</item>
+        <item>@drawable/kue_lumpur</item>
+        <item>@drawable/kue_klepon</item>
+        <item>@drawable/kue_talam</item>
+        <item>@drawable/onde_onde</item>
+        <item>@drawable/kue_getuk</item>
+        <item>@drawable/kue_rangi</item>
+        <item>@drawable/kue_jalangkote</item>
+        <item>@drawable/kue_apem</item>
+        <item>@drawable/kue_wajik</item>
+        <item>@drawable/kue_putu</item>
+        <item>@drawable/kue_lemper</item>
+        <item>@drawable/kue_bika_ambon</item>
+        <item>@drawable/kue_cenil</item>
+        <item>@drawable/kue_pukis</item>
+        <item>@drawable/ongol_ongol</item>
+    </string-array>
+</resources>

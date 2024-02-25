@@ -106,6 +106,8 @@
 
     <string name="data_information">Informasi</string>
     <string name="share">SHARE</string>
+    <string name="rama_adi_satria">Rama Adi Satria</string>
+    <string name="rama_gmail">ramaadibogor@gmail.com</string>
 
     <string-array name="data_daerah">
         <item>Tiongkok Kuno</item>

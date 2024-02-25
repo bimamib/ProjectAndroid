@@ -10,40 +10,40 @@
         android:layout_height="wrap_content">
 
         <ImageView
-            android:id="@+id/nama_saya"
+            android:id="@+id/rama"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_marginTop="128dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/profil"
+            android:src="@drawable/ramaadi"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/nama_aku"
+            android:id="@+id/ramaadi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
             android:fontFamily="@font/nunito_extrabold"
-            android:text="Nama Kamu"
+            android:text="@string/rama_adi_satria"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/nama_saya" />
+            app:layout_constraintTop_toBottomOf="@+id/rama" />
 
         <TextView
-            android:id="@+id/email"
+            android:id="@+id/gmail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:fontFamily="@font/nunito_medium"
-            android:text="@gmail.com"
+            android:text="@string/rama_gmail"
             android:textSize="16sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/nama_aku" />
+            app:layout_constraintTop_toBottomOf="@+id/ramaadi" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
